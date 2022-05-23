@@ -1,4 +1,4 @@
-# DATA2020
+# DATA2022
 
-### Website for DATA 2020 Workshop.
-https://data-workshop.github.io/DATA2021/
+### Website for DATA 2022 Workshop.
+https://data-workshop.github.io/DATA2022/
